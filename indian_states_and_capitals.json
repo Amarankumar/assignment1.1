@@ -1,4 +1,5 @@
-indian_states_and_capitals = {
+{
+    indian_states_and_capitals = 
     "Karnataka": "Bengaluru",
     "Maharashtra": "Mumbai",
     "Tamil Nadu": "Chennai",
